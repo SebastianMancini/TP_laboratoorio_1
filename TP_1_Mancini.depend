@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1504464888 source:c:\users\leonel\desktop\utn\programación 1\tps\tp_1_mancini\funciones.c
+
+1567805141 source:c:\users\leonel\desktop\utn\programación 1\tps\tp_1_mancini\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504838499 c:\users\leonel\desktop\utn\programación 1\tps\tp_1_mancini\funciones.h
+
